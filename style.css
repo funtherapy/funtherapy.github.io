@@ -241,22 +241,6 @@ button{
 .icon-md{
 	font-size:30px!important;
 }
-.icon-round{
-	margin:0 auto;
-	border:2px solid transparent;
-	border-radius: 50%;
-	padding: 32px 30px 26px 30px;
-	min-width:80px;
-}
-.icon-round.icon-md,.icon-square.icon-md,.icon-rounded.icon-md{
-	min-width: 92px;
-}
-.icon-round.icon-lg,.icon-square.icon-lg,.icon-rounded.icon-lg{
-	min-width: 122px;
-}
-.icon-round.icon-xl,.icon-square.icon-xl,.icon-rounded.icon-xl{
-	min-width: 162px;
-}
 
 
 
@@ -318,10 +302,32 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	width:253px;
 	border-radius:0px 0px 0px 0px;
 }
+.h1-style{
+	font-family:"Open Sans";
+	font-weight:800;
+}
+.h3-style{
+	font-family:Ubuntu;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
 
+
+/* Text colour styles */
+
+.tc-white{
+	color:#FFFFFF!important;
+}
+
+/* Link colour styles */
+
+.ltc-white{
+	color:#FFFFFF!important;
+}
+.ltc-white:hover{
+	color:#cccccc!important;
+}
 
 /* Bloc image backgrounds */
 
@@ -333,9 +339,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bg-crosses-s-bg{
 	background-image:url("img/crosses-s-bg.png");
-}
-.bg-walkway{
-	background-image:url("img/walkway.jpg");
 }
 
 
@@ -409,3 +412,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
+@media (max-width: 575px){
+	.h1-style{
+		font-family:"Josefin Sans";
+	}
+	.h3-style{
+		font-family:Ubuntu;
+		font-weight:900;
+	}
+	
+}
+

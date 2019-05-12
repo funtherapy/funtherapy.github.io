@@ -423,3 +423,26 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 }
 
+li > a, li > a:hover, li > a:active {
+	color: white;
+	text-decoration: underline;
+}
+
+li > a:hover {
+	font-weight: bolder;
+}
+
+.privacy-text h3
+{
+	margin-bottom: 8px;
+}
+
+.privacy-text p
+{
+	margin-bottom: 1.5em;
+}
+
+.privacy-text 
+{
+	max-width: 50em;
+}

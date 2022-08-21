@@ -15,7 +15,8 @@ policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
 # add the new game at the end of this list
 GAMES = [
     
-    ("Colony Craft", 'supersonic')
+    ("Colony Craft", 'supersonic'),
+    ("Run Date 3D", 'voodoo')
 
 ]
 

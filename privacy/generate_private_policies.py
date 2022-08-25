@@ -16,7 +16,8 @@ policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
 GAMES = [
     
     ("Colony Craft", 'supersonic'),
-    ("Run Date 3D", 'voodoo')
+    ("Run Date 3D", 'voodoo'),
+    ("Melt Em All", 'supersonic')
 
 ]
 

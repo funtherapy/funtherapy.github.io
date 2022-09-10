@@ -18,7 +18,8 @@ GAMES = [
     ("Colony Craft", 'supersonic'),
     ("Run Date 3D", 'voodoo'),
     ("Melt Em All", 'supersonic'),
-    ("Firefighter Puzzle", 'supersonic')
+    ("Firefighter Puzzle", 'supersonic'),
+    ("Build Arcade", 'supersonic')
 ]
 
 HOME_URL = "https://funtherapy.github.io"

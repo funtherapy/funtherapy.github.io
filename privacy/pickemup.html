@@ -29,7 +29,7 @@
         .then((response) => response.text())
         .then((template) => {
           var rendered = Mustache.render(template, {
-            name: 'Pick'em Up',
+            name: 'Pick\'em Up',
             homepage_url: 'https://funtherapy.github.io'
           });
           document.getElementById('target').innerHTML = rendered;

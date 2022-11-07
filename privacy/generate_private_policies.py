@@ -27,6 +27,7 @@ GAMES = [
     ("Soldiers Hook", 'supersonic'),
     ("Mr Peast", 'supersonic'),
     ("Angry Man", 'supersonic'),
+    ("Teppanyaki Master", 'supersonic'),
 ]
 
 HOME_URL = "https://funtherapy.github.io"

@@ -31,7 +31,7 @@ GAMES = [
     ("Sword Champ", 'supersonic'),
     ("Bank Defense", 'supersonic'),
     ("Shoot Ball Run 3D", 'supersonic'),
-    
+    ("Arrow Parkour 3D", 'supersonic')
 ]
 
 HOME_URL = "https://funtherapy.github.io"

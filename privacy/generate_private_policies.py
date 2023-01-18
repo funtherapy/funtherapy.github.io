@@ -33,7 +33,7 @@ GAMES = [
     ("Shoot Ball Run 3D", 'supersonic'),
     ("Arrow Parkour 3D", 'supersonic'),
     ("RPS Run", 'supersonic'),
-    ("Crowd Puzzle", 'supersonic'),
+    ("Crowd Puzzle", 'voodoo'),
     ("Soap Push", 'voodoo'),
     ("Bridge Run", 'supersonic'),
     ("Angry Ninja", 'supersonic'),

@@ -38,6 +38,7 @@ GAMES = [
     ("Bridge Run", 'supersonic'),
     ("Angry Ninja", 'supersonic'),
     ("Flippy Arrow", 'voodoo'),
+    ("Slice & Merge", 'voodoo'),
 ]
 
 HOME_URL = "https://funtherapy.github.io"

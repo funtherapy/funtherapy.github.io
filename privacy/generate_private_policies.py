@@ -41,7 +41,8 @@ GAMES = [
     ("Slice & Merge", 'voodoo'),
     ("4Wheelers", 'supersonic'),
     ("Word Masters", 'voodoo'),
-    ("World of Words: Kalamatic", 'wow')
+    ("World of Words: Kalamatic", 'wow'),
+    ("Captain Starla: Space Shooter", 'supersonic')
 ]
 
 HOME_URL = "https://funtherapy.github.io"

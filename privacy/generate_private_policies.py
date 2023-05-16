@@ -40,7 +40,7 @@ GAMES = [
     ("Flippy Arrow", 'voodoo'),
     ("Slice & Merge", 'voodoo'),
     ("4Wheelers", 'supersonic'),
-    ("Word Masters", 'supersonic'),
+    ("Word Masters", 'voodoo'),
     ("World of Words: Kalamatic", 'wow')
 ]
 

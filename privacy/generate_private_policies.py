@@ -10,7 +10,8 @@ policy_templates = {'voodoo': 'templates/policy_voodoo.mustache',
                     'lion': 'templates/policy_lion.mustache',
                     'boomhit': 'templates/policy_boomhit.mustache',
                     'moonee': 'templates/policy_moonee.mustache',
-                    'supersonic': 'templates/policy_supersonic.mustache',}
+                    'supersonic': 'templates/policy_supersonic.mustache',
+                    'wordmasters': 'templates/policy_wordmasters.mustache',}
 
 # add the new game at the end of this list
 GAMES = [
@@ -40,7 +41,7 @@ GAMES = [
     ("Flippy Arrow", 'voodoo'),
     ("Slice & Merge", 'voodoo'),
     ("4Wheelers", 'supersonic'),
-    ("Word Masters", 'voodoo'),
+    ("Word Masters", 'wordmasters'),
     ("World of Words: Kalamatic", 'wow'),
     ("Captain Starla: Space Shooter", 'supersonic'),
     ("Starla: The Final Frontier", 'voodoo')

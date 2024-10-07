@@ -4,8 +4,7 @@ vyadd.com, 72567, RESELLER
 applovin.com, 59db7dcedb353ecba2a52c86e5609b63, DIRECT
 tapjoy.com, ab1fc72ef111457b818531a2ce63a56c, DIRECT, 29e595b1aeb5904d
 chartboost.com, 5db029b1365cd10a14122400, DIRECT
-ironsrc.com, [yourIronosurcePublisherAccountID], Direct , 79929e88b2ba73bc
-Remember to replace [yourIronsourcePublisherAccountID] with your account ID, which you can get from your account manager.
+ironsrc.com, 184380, Direct , 79929e88b2ba73bc
 stroeer.com, 17355, RESELLER
 unity.com, 1897563, DIRECT, 96cabb5fbdde37a7
 google.com, pub-9051175444104661, RESELLER
